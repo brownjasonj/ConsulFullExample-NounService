@@ -18,3 +18,4 @@ spring:
         prefix: configuration
         defaultContext: apps
         profileSeparator: '::'
+      host: service.consul
